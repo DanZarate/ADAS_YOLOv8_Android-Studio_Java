@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ADAS</string>
+
+    <string-array name="model">
+        <item>yolov8s-linea-160</item>
+        <item>yolov8m-linea-160 </item>
+        <item>yolov8s-linea-320</item>
+        <item>yolov8m-linea-320</item>
+        <item>yolov8n-160</item>
+        <item>yolov8n-320</item>
+        <item>yolov8s-320</item>
+        <item>yolov8m-320</item>
+        <item>yolov8l-320</item>
+    </string-array>
+
+    <string name="dimenciones">ARRAY:</string>
+    <string name="Model">Modelo:</string>
+    <string name="ViewZone">Ver Zona</string>
+    <string name="Precision">Precisión L:</string>
+    <string name="PrecisionB">Precisión B:</string>
+    <string name="size">xx ms</string>
+    <string name="Kp">Kp:</string>
+
+</resources>
