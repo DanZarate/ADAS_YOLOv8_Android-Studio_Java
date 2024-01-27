@@ -1,4 +1,4 @@
-# ADAS con YOLOv8 y Android
+# ADAS-YOLOv8-Android
 ## Descripcion
 Desarrollo de un Asistente de conducción (ADAS) con deteccion de objetos mediante YOLO en aplicativo movil Android.
 
